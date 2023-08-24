@@ -1,0 +1,72 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIGMA FILES</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <!-- navigation part -->
+        <div class="wrapper">
+            <nav>
+                <div class="logo">Guvi.</div>
+                <ul>
+                    <li>
+                        <a href="https://www.guvi.in/" target="_blank">About</a>
+                    </li>
+                    <li>
+                        <a href="https://www.guvi.in/" target="_blank">Service</a>
+                    </li>
+                    <li>
+                        <a href="https://www.guvi.in/" target="_blank">OurWork</a>
+                    </li>
+                    <li>
+                        <a href="https://www.zenclass.in/" class="btn dark" target="_blank">Enrol Now</a>
+                    </li>
+                    
+                </ul>
+            </nav>
+            <!-- navigation end -->
+            <!-- left side -->
+            <div class="hero-selection">
+                <div class="left">
+                    <h1>Learn the art of <br> Web Dev</h1>
+                    <p>This is a comprehensive course on Web Development.<br> You will learn everything from generating an idea to<br> publishing your Web apps to different platforms.</p>
+                    <a href="https://www.zenclass.in/" class="btn light enrol-icon" target="_blank">Enrol Now</a>                   
+                    
+                </div>
+                <!-- right side -->
+                <div class="Right">
+                    <img src="./hero-image 1 (1).svg" alt="HERO-image" />
+                </div>
+                <!-- achivement part -->
+                <div class="achievement-card"></div>
+                <div class="achievement-card students-enroled">
+                    <div class="content">
+                        <div>
+                            <h3>32k</h3>
+                        </div>
+                        <p>Students Enrolled</p>
+                    </div>
+                    <div class="bg"></div>
+                </div>
+                <div class="achievement-card Overall Rating">
+                    <div class="content">
+                        <div>
+                            <h3>4.7</h3>
+                            <img scr="./Vector (2).svg" alt="Star-icon" />
+                        </div>
+                        <p>Overall Rating</p>
+                    </div>
+                    <div class="bg"></div>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+</html>
